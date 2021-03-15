@@ -1,4 +1,5 @@
 # EventSource [![npm version](http://img.shields.io/npm/v/eventsource.svg?style=flat-square)](http://browsenpm.org/package/eventsource)[![Build Status](http://img.shields.io/travis/EventSource/eventsource/master.svg?style=flat-square)](https://travis-ci.org/EventSource/eventsource)[![NPM Downloads](https://img.shields.io/npm/dm/eventsource.svg?style=flat-square)](http://npm-stat.com/charts.html?package=eventsource&from=2015-09-01)[![Dependencies](https://img.shields.io/david/EventSource/eventsource.svg?style=flat-square)](https://david-dm.org/EventSource/eventsource)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Feventsource.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarloskcheung%2Feventsource?ref=badge_shield)
 
 This library is a pure JavaScript implementation of the [EventSource](https://html.spec.whatwg.org/multipage/server-sent-events.html#server-sent-events) client. The API aims to be W3C compatible.
 
@@ -87,3 +88,6 @@ var es = new EventSource(url, {proxy: 'http://your.proxy.com'});
 ## License
 
 MIT-licensed. See LICENSE
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcarloskcheung%2Feventsource.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcarloskcheung%2Feventsource?ref=badge_large)
